@@ -70,7 +70,7 @@ Attendees will be required to install software on the workstations that they are
 7. Execute the following from the `setup\LabDeployment\deploy` directory of the hack repository clone to deploy the environment (this process may take 10-15 minutes). Login into azure portal and monitor ongoing the deployments in the resource group to check the status:
 
     ```powershell
-     .\deployAll.ps1 -
+     .\deployAll.ps1
     ```
 
 ### Manual step - Assigning Users to Each Resource Group 
