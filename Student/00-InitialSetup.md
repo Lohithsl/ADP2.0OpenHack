@@ -33,7 +33,7 @@ Attendees will be required to install software on the workstations that they are
 
 ## Deployment Instructions 
 
-1. Open a **PowerShell 7** window, run the following command, if prompted, click **Yes to All**:
+1. Open a **PowerShell 7** window as administrator, run the following command, if prompted, click **Yes to All**:
 
    ```PowerShell
    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
